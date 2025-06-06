@@ -48,7 +48,7 @@
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/schedulerr.git
+   git clone https://github.com/SuryaNarayananDev/schedulerr.git
    cd schedulerr
    ```
 
